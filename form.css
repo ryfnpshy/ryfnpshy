@@ -1,0 +1,128 @@
+/* Reset dasar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Warna latar belakang dengan gradasi futuristik */
+body {
+    background: linear-gradient(135deg, #007BFF, #0056b3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Kotak form */
+.form-container {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    color: white;
+}
+
+/* Judul form */
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+/* Grup input */
+.input-group {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+/* Label */
+.input-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+/* Input dan textarea */
+.input-group input, 
+.input-group textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+/* Efek saat focus */
+.input-group input:focus, 
+.input-group textarea:focus {
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.8);
+}
+
+/* Jenis Kelamin menyamping */
+.radio-group {
+    margin-bottom: 20px;
+}
+
+.radio-options {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+/* Hobi menyamping */
+.checkbox-group {
+    margin-bottom: 20px;
+}
+
+.checkbox-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+/* Tombol Submit */
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #ffffff;
+    color: #0056b3;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* Efek hover pada tombol */
+.submit-btn:hover {
+    background: #f0f0f0;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+/* Ikon pada input */
+.input-group i {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    opacity: 0.8;
+}
+
+/* Padding kiri lebih besar untuk menyesuaikan ikon */
+.input-group input, 
+.input-group textarea {
+    padding-left: 40px;
+}
