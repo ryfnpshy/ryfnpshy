@@ -1,0 +1,23 @@
+h2 {
+    position: relative;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+h2::after {
+    content: "";
+    display: block;
+    width: 800px;
+    height: 3px;
+    background-color: #1E40AF; 
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+img {
+    border-radius: 0; 
+    width: 200px; 
+    height: 200px;
+    object-fit: cover; 
+}
