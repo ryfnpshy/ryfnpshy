@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=280&section=header&text=%3CRyfnpshy%20/%3E&fontSize=80&desc=Precision%20in%20Code%2C%20Innovation%20in%20Architecture&descSize=20&descAlignY=65" width="100%" alt="Ryfnpshy Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=1&pause=1&color=38B2AC&center=true&vCenter=true&width=800&height=150&lines=%3CRyfnpshy%2F%3E" alt="Ryfnpshy Coding Banner" />
 </div>
 
 <div align="center">
