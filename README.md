@@ -1,79 +1,121 @@
-![Header](https://capsule-render.vercel.app/render?type=waving&color=timeGradient&height=250&section=header&text=Rayfan%20Pashya&fontSize=80&animation=fadeIn&fontAlignY=35&desc=System%20Thinker%20|%20Full-Stack%20Developer&descSize=25&descAlignY=55)
+<div align="center">
+  <img src="https://res.cloudinary.com/dmzezydzl/image/upload/v1773565784/Gemini_Generated_Image_mh1pehmh1pehmh1p_zcyfbd.png" alt="Header Banner" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Information+Systems+Student+%40+Telkom+Univ;Building+Microservices+%26+High-Performance+Web;Bridging+Business+Logic+with+Clean+Code;Award-Winning+Visual+Storyteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=System+Thinker+|+Full-Stack+Developer;Information+Systems+Student+%40+Telkom+University;Bridging+Business+Logic+with+Clean+Code;Award-Winning+Visual+Storyteller" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rayfan-pashya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pashyarayfan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ryfnpshy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  <a href="https://www.linkedin.com/in/rayfan-pashya"><img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:pashyarayfan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ryfnpshy&label=Profile%20Views&color=000000&labelColor=333333&style=for-the-badge" alt="Views" />
 </div>
 
----
+<br>
 
-### 🚀 Welcome to My Digital Workspace!
-<table align="center">
-  <tr>
-    <td width="60%">
-      Mahasiswa <b>Sistem Informasi</b> yang tidak hanya menulis baris kode, tapi merancang solusi. Saya terobsesi dengan performa sistem, arsitektur modern, dan bagaimana teknologi bisa memberikan dampak nyata pada proses bisnis.<br><br>
-      🌱 <b>Fokus Saat Ini:</b> Mendalami ekosistem <b>Microservices</b> (terutama <b>gRPC</b> & <b>WebSockets</b>) dan optimasi <b>Next.js / Laravel</b>.<br>
-      📊 <b>Sisi Lain:</b> Memiliki latar belakang kuat di <b>Data Analytics</b> & <b>Strategic Marketing</b>.<br>
-      🎬 <b>Fakta Unik:</b> <i>Juara 1 Lomba Film Pendek 2024</i> — Saya percaya bahwa kode yang baik, seperti halnya film, harus bisa menceritakan sebuah narasi yang kuat.
+<table width="100%" align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <h2>⚡ Tentang Saya</h2>
+      <p align="justify">
+        Saya adalah mahasiswa <b>Sistem Informasi</b> di Telkom University yang memandang kode sebagai instrumen untuk memecahkan masalah. Pendekatan saya berfokus pada merancang arsitektur perangkat lunak yang <i>scalable, efisien</i>, dan berdampak nyata pada kelancaran ekosistem bisnis.
+      </p>
+      <ul>
+        <li>🌱 <b>Fokus Akselerasi:</b> Memperdalam pemahaman arsitektur <b>Microservices</b> (<b>gRPC</b> & <b>WebSockets</b>), serta optimasi berkelanjutan pada ekosistem <b>Next.js</b> dan <b>Laravel</b>.</li>
+        <li>📊 <b>Perspektif Ekstra:</b> Pengalaman praktis di ranah <b>Data Analytics</b> dan <b>Strategic Marketing</b> memberikan sudut pandang komersial yang solid untuk setiap produk yang saya kembangkan.</li>
+        <li>🎬 <b>Fakta Unik:</b> Sebagai pemenang <i>Juara 1 Lomba Film Pendek 2024</i>, saya percaya bahwa barisan kode yang elegan bekerja layaknya sebuah film—keduanya harus merangkai narasi dan arsitektur yang intuitif bagi sang audiens.</li>
+      </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="100%" alt="Coding Animation" />
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="https://res.cloudinary.com/dmzezydzl/image/upload/v1773565783/Gemini_Generated_Image_pp7cnqpp7cnqpp7c_yqmemy.png" width="100%" alt="Showcase Image" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryfnpshy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ryfnpshy Trophies" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Arsenal
 
+<p align="center">
+  <i>Bahan bakar di balik setiap baris kode, arsitektur, dan infrastruktur proyek yang saya bangun.</i>
+</p>
+
 <div align="center">
-  <p><b>Frontend & UI</b></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,html,css,framer&perline=10" />
+  <p><b>✨ Frontend & Craftsmanship</b></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,html,css,framer&perline=10&theme=dark" alt="Frontend tools" />
   <br><br>
-  <p><b>Backend & Architecture</b></p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb,postgres&perline=10" />
+  <p><b>⚙️ Backend & Architecture</b></p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb,postgres&perline=10&theme=dark" alt="Backend tools" />
   <br><br>
-  <p><b>Tools & Infrastructure</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&perline=10" />
+  <p><b>🔧 Tooling & Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&perline=10&theme=dark" alt="Dev tools" />
 </div>
 
 ---
 
-### 📈 GitHub Analytics
+<table width="100%" align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3>💼 Perjalanan Profesional</h3>
+      <ul>
+        <li>
+          <b>Marketing Data Administrator</b> <br>
+          <i>@ Marketing Crew Tel-U</i> <br>
+          <p align="justify">📈 Terlibat aktif dalam menganalisis berbagai matriks tren segmentasi pasar untuk mendorong optimasi performa dan eskalasi strategi bisnis yang efektif.</p>
+        </li>
+        <li>
+          <b>Assistant Director Intern</b> <br>
+          <i>@ CV. ADI KREASINDO</i> <br>
+          <p align="justify">👔 Mengawasi dan mengorkestrasi alur operasional internal tim, sembari berkolaborasi intensif dalam siklus manajemen proyek operasional bisnis secara <i>end-to-end</i>.</p>
+        </li>
+        <li>
+          <b>Video Editor & Content Creator</b> <br>
+          <i>@ PT. SARI TEKNOLOGI</i> <br>
+          <p align="justify">🎥 Secara konsisten mentranslasikan narasi hingga gagasan teknis yang kompleks menjadi sebuah balutan visual serta multimedia informatif dan dinamis.</p>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🚀 Proyek Spektakuler</h3>
+      <ul>
+        <li>
+          <b>GamerZone</b> <br>
+          <p align="justify">🎮 Platform <i>Top-Up</i> industri <i>gaming</i> dengan prospek skalabilitas riil; memadukan kekuatan arsitektur <i>Microservices</i> dengan pengalaman antarmuka ruang maya 3D modern secara mulus.</p>
+        </li>
+        <li>
+          <b>Online Photocopy</b> <br>
+          <p align="justify">🖨️ Mendigitalisasikan proses pencetakan konvensional menjadi layanan modern terintegrasi; membawa komunikasi siklus data riil (<i>real-time</i>) dengan mengandalkan efisiensi tinggi <i>WebSockets</i> dan ketangguhan perantara layanan <i>gRPC</i>.</p>
+        </li>
+        <li>
+          <b>ScanEatz</b> <br>
+          <p align="justify">🏢 Sebuah Sistem <i>Full-Stack</i> terpadu operasional UMKM lintas sektor komprehensif, ditopang penuh oleh kapabilitas manajemen logistik intuitif dan pelacak lokasi (pemindai geolokasi terkostumisasi).</p>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics & Eksposure Repositori
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryfnpshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryfnpshy&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryfnpshy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfnpshy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryfnpshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38B2AC" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryfnpshy&theme=tokyonight&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" width="48%" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfnpshy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38B2AC" width="60%" alt="Top Languages" />
 </div>
 
----
-
-### 💼 Professional Journey
-- 📈 **Marketing Data Administrator** @ Marketing Crew Tel-U *(Optimasi performa tim via data)*
-- 👔 **Assistant Director Intern** @ CV. ADI KREASINDO *(Manajemen proyek end-to-end)*
-- 🎥 **Video Editor & Content Creator** @ PT. SARI TEKNOLOGI *(Bercerita melalui multimedia)*
-
-### 🚀 Featured Highlights
-> **🎮 GamerZone** — Platform Top-Up Game dengan arsitektur *Microservices* dan antarmuka 3D.<br>
-> **🖨️ Online Photocopy** — Digitalisasi layanan cetak dengan komunikasi *real-time* via *WebSockets* & *gRPC*.<br>
-> **🏢 ScanEatz** — Solusi Full-Stack untuk inventaris UMKM dan logistik berbasis geolokasi.
-
----
-
-![Footer](https://capsule-render.vercel.app/render?type=waving&color=timeGradient&height=120&section=footer)
+<br>
+<div align="center">
+  <p><i>Secangkir kopi hangat mendampingi barisan kode yang tertata rapi. Mari <a href="mailto:pashyarayfan@gmail.com">berbincang dan berkolaborasi!</a></i></p>
+</div>
