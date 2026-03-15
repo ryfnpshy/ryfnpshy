@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=1&pause=1&color=38B2AC&center=true&vCenter=true&width=800&height=150&lines=%3CRyfnpshy%2F%3E" alt="Ryfnpshy Coding Banner" />
+  <img src="https://res.cloudinary.com/dmzezydzl/image/upload/v1773565784/Gemini_Generated_Image_mh1pehmh1pehmh1p_zcyfbd.png" alt="Ryfnpshy Banner" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://rayjoki.pages.dev/">
-    <img src="https://img.shields.io/badge/🚀_Solusi_Tugas_%26_Project?_Cek_RayJoki-000000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=334155" alt="RayJoki Promotion" />
+    <img src="https://img.shields.io/badge/🚀_Solusi_Tugas_%26_Project-RayJoki-000000?style=for-the-badge&logoColor=white&labelColor=334155" alt="RayJoki Promotion" />
   </a>
 </div>
 
