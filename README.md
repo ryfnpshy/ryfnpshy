@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dmzezydzl/image/upload/v1773565784/Gemini_Generated_Image_mh1pehmh1pehmh1p_zcyfbd.png" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:111827,100:1e293b&height=280&section=header&text=%3CRyfnpshy%20/%3E&fontSize=80&fontColor=F8FAFC&desc=Precision%20in%20Code,%20Innovation%20in%20Architecture&descSize=20&descAlignY=65" width="100%" alt="Ryfnpshy Banner" />
+</div>
+
+<div align="center">
+  <a href="https://rayjoki.pages.dev/">
+    <img src="https://img.shields.io/badge/🚀_Solusi_Tugas_%26_Project?_Cek_RayJoki-000000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=334155" alt="RayJoki Promotion" />
+  </a>
 </div>
 
 <br>
