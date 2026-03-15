@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dmzezydzl/image/upload/v1773565784/Gemini_Generated_Image_mh1pehmh1pehmh1p_zcyfbd.png" alt="Ryfnpshy Banner" width="100%" />
+  <img src="github-header-banner.png" alt="Ryfnpshy Banner" width="100%" />
 </div>
 
 <div align="center">
