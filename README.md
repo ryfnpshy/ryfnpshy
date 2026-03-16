@@ -123,5 +123,5 @@
 
 <br>
 <div align="center">
-  <p><i>Secangkir kopi hangat mendampingi barisan kode yang tertata rapi. Mari <a href="mailto:pashyarayfan@gmail.com">berbincang dan berkolaborasi!</a></i></p>
+  <p><i>Secangkir kopi hangat mendampingi barisan kode yang tertata rapi. Mari <a href="mailto:rayfanpashya00@gmail.com">berbincang dan berkolaborasi!</a></i></p>
 </div>
